@@ -1,0 +1,6 @@
+{
+  "name": "Nosy Vanona Tours",
+  "description": "Excursions, hébergements et services touristiques à Madagascar",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
